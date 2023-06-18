@@ -1,1 +1,1 @@
-*.ipynb linguist-vendored
+*.python linguist-detectable=true 
