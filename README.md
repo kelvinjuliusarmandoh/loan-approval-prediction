@@ -1,5 +1,7 @@
 # Loan Approval Prediction
+
 # Predicting Approval of the loan using machine learning
+![Loan Defaults Picture](https://github.com/KelvinJulius/loan-approval-prediction/assets/108222785/4de788ae-76df-450e-8675-9af21c6b076e)
 
 This notebook using python for machine learning and data science in attempt to predict the approval of the loan based on the attributes.
 
